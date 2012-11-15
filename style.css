@@ -1,0 +1,31 @@
+body {padding:0; margin:0; color:#000000}
+body, td {font-family:Tahoma; font-size:11px; }
+br{font-size:10px}
+a:hover {text-decoration:none}
+.s{font-size:10px; color:#969696; }
+.s1{font-size:10px; color:#858585}
+.green{color:#74783E}
+.red{font-size:10px;color:#CAB6A7; text-decoration:none}
+  .o{color:#FFCC00;}
+.blue{ color:#A08CA2}
+.blue1{ color:#918292}
+.blue2{ color:#6C8EB1;}
+.blue3{ color:#476583}
+.blue4{ color:#A08CA2; text-decoration:none}
+.w{color:#FFFFFF; }
+.b{color:#5E5E5E }
+
+.t1{background:url(images/1_z1.gif)  center left no-repeat; margin:0px 0px 0px 0px; padding:0px 0px 0px 10px }
+.t2{background:url(images/1_z4.gif)  center left no-repeat; margin:0px 0px 0px 0px; padding:0px 0px 0px 8px }
+ .t3{background:url(images/1_z1.gif)  center left no-repeat; margin:0px 0px 0px 0px; padding:0px 0px 0px 14px }
+ .t4{background:url(images/1_z2.gif)  center left no-repeat; margin:0px 0px 0px 0px; padding:0px 0px 0px 10px }
+
+input,textarea{
+   font-family:Tahoma;
+   font-size:11px;
+} 
+
+
+ 
+
+
